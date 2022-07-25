@@ -4,7 +4,30 @@ body{
     margin: 0;
 }
 
-
+/* Header CSS */
 .top{
-    background-color: lightcoral;
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
 }
+
+.header{
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*----------------------------------------------*/
+
