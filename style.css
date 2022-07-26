@@ -26,8 +26,50 @@ ul{
 
 a{
     text-decoration: none;
-    color: white;
+    color: #e5e7eb;
+
 }
 
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+
+/*----------------------------------------------*/
+
+/* Header-Bottom CSS */
+
+.header-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square{
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+
+
+}
+
+.h-left{
+    font-size: 48px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-1{
+    background-color: #eee;
+    display: flex;
+    height: 180px;
+    margin: 100px;
+    width: 450px;
+
+}
 /*----------------------------------------------*/
 
