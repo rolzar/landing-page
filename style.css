@@ -116,13 +116,13 @@ button{
 .image2{
     height: 150px;
     width: 150px;
-    border-radius: 10px;
-    border: 5px solid #3882f6;
+    border-radius: 8px;
+    border: 4px solid #3882f6;
 }
 
 /*----------------------------------------------*/
 
-/* Middle-1 CSS */
+/* Middle-2 CSS */
 
 .middle-2{
     display: flex;
@@ -144,6 +144,39 @@ button{
     font: bold 20px Helvetica;
     margin-left: 550px;
 }
+
+/*----------------------------------------------*/
+
+/* Middle-3 CSS */
+
+.middle-3{
+    display: flex;
+    color: white;
+    background-color: #3882f6;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 100px;
+    gap: 200px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin:100px auto;
+
+}
+
+.action{
+    font: bold 24px Helvetica;
+}
+
+.action-2{
+    font: 16px Helvetica;
+    color: #e5e7eb;
+}
+
+.white{
+    border: solid white;
+}
+
+
 
 
 /*----------------------------------------------*/
