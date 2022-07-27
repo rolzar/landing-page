@@ -31,12 +31,10 @@ a{
 }
 
 .logo{
-    font-weight: bold;
-    font-size: 24px;
+    font: bold 24px Helvetica;
     display: flex;
     align-items: center;
     margin: 0;
-
 }
 
 /*----------------------------------------------*/
