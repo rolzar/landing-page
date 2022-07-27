@@ -88,3 +88,37 @@ button{
 
 /*----------------------------------------------*/
 
+/* Middle-1 CSS */
+
+.middle-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 25px;
+}
+
+.info{
+    font: bold 36px Helvetica;
+}
+
+#middle-list-1{
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    gap: 50px;
+    text-align: center;
+}
+
+.image2{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    border: 5px solid #3882f6;
+}
+
+
+/*----------------------------------------------*/
