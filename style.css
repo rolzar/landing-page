@@ -95,7 +95,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px;
+    padding: 100px;
     gap: 25px;
 }
 
@@ -118,6 +118,31 @@ button{
     width: 150px;
     border-radius: 10px;
     border: 5px solid #3882f6;
+}
+
+/*----------------------------------------------*/
+
+/* Middle-1 CSS */
+
+.middle-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: #e5e7eb;
+    gap: 20px;
+}
+
+.quote{
+    font: italic lighter 36px Helvetica;
+    color: gray;
+    max-width: 750px;
+}
+
+.author{
+    font: bold 20px Helvetica;
+    margin-left: 550px;
 }
 
 
